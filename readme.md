@@ -48,3 +48,8 @@ go run main.go -typeOf client -ip <server-ip> -port
 
 •	Replace <server-ip> with the server’s IP address (default is localhost).
 •	Replace <port> with the port number on which the server is listening (default is 8686).
+
+## Walkthrough 
+https://medium.com/@serhatcck/how-do-ssl-scanners-work-b4977308e981
+
+
